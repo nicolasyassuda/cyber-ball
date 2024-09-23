@@ -1,0 +1,72 @@
+# Unity-generated folders and files
+# Ignore Unity generated Library folder
+[Ll]ibrary/
+
+# Ignore large Unity cache files
+[Ll]ibrary/PackageCache/
+
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore auto-generated Visual Studio/MonoDevelop files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore crash reports
+*.crash
+*.pidb
+*.stacktrace
+
+# Ignore Unity generated meta files
+*.pidb.meta
+
+# Ignore file generated when Unity API updater runs
+*-backups/
+
+# Ignore temporary files and OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore built executables
+*.apk
+*.xcodeproj
+*.app
+*.exe
+*.class
+*.jar
+*.dll
+*.pdb
+*.mdb
+*.so
+*.a
+*.dylib
+
+# Ignore JetBrains Rider project files
+.idea/
+*.sln.iml
+
+# Ignore user-specific Unity settings
+UserSettings/
+
+# Ignore Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Ignore Play Mode Test Results
+PlayModeTestResults.xml
+
+# Ignore Collaboration Metadata
+/Assets/../ProjectSettings/UnityConnectSettings.asset
+/Assets/../ProjectSettings/CollaborateSettings.asset
+/Assets/../ProjectSettings/EditorSettings.asset

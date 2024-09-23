@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\WorldSkies\\Demo\\Scripts\\SkyboxChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WorldSkies\\Demo\\Scripts\\SkyboxChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovingCube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCylinderUp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovingCylinderUp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCylinderUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovingCylinderUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Polyeler\\Simple Retro Car\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Polyeler\\Simple Retro Car\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CurvedTrackGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CurvedTrackGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CurvedPlane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CurvedPlane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\ManagerMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ManagerMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\Rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkyboxChanger.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\WorldSkies\\Demo\\Scripts\\SkyboxChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\WorldSkies\\Demo\\Scripts\\SkyboxChanger.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\WorldSkies\\Demo\\Scripts\\SkyboxChanger.cs",
+              "RelativeToolTip": "Assets\\WorldSkies\\Demo\\Scripts\\SkyboxChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:08:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovingCube.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingCube.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingCube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:58:40.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovingCylinderUp1.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCylinderUp1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingCylinderUp1.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCylinderUp1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingCylinderUp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:37:52.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovingCylinderUp.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCylinderUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingCylinderUp.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\MovingCylinderUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingCylinderUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:20:41.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurvedPlane.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CurvedPlane.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CurvedPlane.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CurvedPlane.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CurvedPlane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:55:48.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerMenu.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\ManagerMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManagerMenu.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\ManagerMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManagerMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:44:07.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotator.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\Rotator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:33:05.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:15:07.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:14:29.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurvedTrackGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CurvedTrackGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CurvedTrackGenerator.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Scripts\\CurvedTrackGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CurvedTrackGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T22:11:53.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Polyeler\\Simple Retro Car\\README.txt",
+              "RelativeDocumentMoniker": "Assets\\Polyeler\\Simple Retro Car\\README.txt",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Assets\\Polyeler\\Simple Retro Car\\README.txt",
+              "RelativeToolTip": "Assets\\Polyeler\\Simple Retro Car\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T22:39:25.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\Jogos Digitais\\04092024\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-18T18:23:15.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
